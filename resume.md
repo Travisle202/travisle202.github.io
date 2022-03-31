@@ -6,7 +6,7 @@ https://www.linkedin.com/in/travis-le/
 
 # Summary
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+> This is a quote
 
 # Education
 
@@ -50,6 +50,8 @@ Mac Genius | June 2019 – Present
 - Performs preliminary studies and detailed systems specifications
 
 
+
+![](image.png)
 
 
 [University 1]: http://www.univ1.edu
