@@ -6,7 +6,7 @@ https://www.linkedin.com/in/travis-le/
 
 # Summary
 
-> This is a quote
+> I am experienced in software development and data analysis.
 
 # Education
 
@@ -51,7 +51,7 @@ Mac Genius | June 2019 – Present
 
 
 
-![](image.png)
+![](uw_logo.png)
 
 
 [University 1]: http://www.univ1.edu
