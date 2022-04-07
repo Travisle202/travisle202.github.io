@@ -2,7 +2,7 @@
 
 leduy202@uw.edu
 
-https://www.linkedin.com/in/travis-le/
+[Linkedin](https://www.linkedin.com/in/travis-le/)
 
 # Summary
 
